@@ -5,7 +5,7 @@
   <img src="https://www.mywebworld.in/wp-content/uploads/2018/05/web-design-kerala.gif" />
 </div>
 
-<img src="https://i.pinimg.com/736x/c9/88/0a/c9880a8abf25f389be7154e8fee18270.jpg" />
+<img src="https://i.pinimg.com/736x/c4/c6/96/c4c696d43555c08f806375759e1b7528.jpg" />
 
 
 - 🌱 I’m currently learning **Django framework**
