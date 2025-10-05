@@ -8,7 +8,7 @@
 <img src="https://i.pinimg.com/736x/c4/c6/96/c4c696d43555c08f806375759e1b7528.jpg" />
 
 
-- 💬 Ask me about **Python, SQL, Django, Node.js, Express.js, Fastify, PostgreSQL, TypeORM, TypeScript**
+- 💬 Ask me about **Python, SQL, Django, Node.js, Express.js, Fastify, PostgreSQL**
 
 - 📫 How to reach me **adarsh.vinod.3762@gmail.com**
   
@@ -73,6 +73,12 @@
   <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> 
   </a> 
+  <a href="https://dbeaver.io/" target="_blank" rel="noreferrer"> 
+  <img src="https://dbeaver.io/wp-content/uploads/2015/09/dbeaver-head.png" alt="dbeaver" width="40" height="40"/> 
+</a>
+<a href="https://nginx.org/" target="_blank" rel="noreferrer"> 
+  <img src="https://upload.wikimedia.org/wikipedia/commons/c/c5/Nginx_logo.svg" alt="nginx" width="40" height="40"/> 
+</a>
 </p>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=adarsh2325&show_icons=true&locale=en&layout=compact" alt="adarsh2325" /></p>
