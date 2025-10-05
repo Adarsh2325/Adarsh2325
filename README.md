@@ -74,7 +74,7 @@
     <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> 
   </a> 
   <a href="https://dbeaver.io/" target="_blank" rel="noreferrer"> 
-  <img src="https://dbeaver.io/wp-content/uploads/2015/09/dbeaver-head.png" alt="dbeaver" width="40" height="40"/> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dbeaver/dbeaver-original.svg" alt="dbeaver" width="40" height="40"/> 
 </a>
 <a href="https://nginx.org/" target="_blank" rel="noreferrer"> 
   <img src="https://upload.wikimedia.org/wikipedia/commons/c/c5/Nginx_logo.svg" alt="nginx" width="40" height="40"/> 
