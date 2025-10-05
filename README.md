@@ -7,11 +7,12 @@
 
 <img src="https://i.pinimg.com/736x/c4/c6/96/c4c696d43555c08f806375759e1b7528.jpg" />
 
-- 🌱 I’m currently learning **Django framework**
 
 - 💬 Ask me about **Python, SQL, Django, Node.js, Express.js, Fastify, PostgreSQL, TypeORM, TypeScript**
 
 - 📫 How to reach me **adarsh.vinod.3762@gmail.com**
+  
+- 📄 *“Turning ideas into reality, one line of code at a time.”* — [View My Resume](https://drive.google.com/file/d/16SnHqZa3m80qK8rOdw_3FeCTQTezjM2u/view?usp=drivesdk)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
